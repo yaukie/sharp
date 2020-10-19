@@ -1,4 +1,4 @@
-# simple-framework
+# x1-sharp-frame
 
 # 简介
 1. 它是一款轻量级 Java Web 框架
@@ -41,7 +41,7 @@ org/
 
 <dependency>
     <groupId>org.simple</groupId>
-    <artifactId>simple-framework</artifactId>
+    <artifactId>x1-sharp-frame</artifactId>
     <version>[版本号]</version>
 </dependency>
 提示：需要指定具体的版本号。若使用相关 simple 插件，则需分别配置。
